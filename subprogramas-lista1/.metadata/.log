@@ -1274,3 +1274,9 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/Aula091023/sr
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 !SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2023-10-19 19:01:12.815
 !MESSAGE Cannot determine URI for '/Aula091023/src/Lista_SubPrograma/Ex1.java'.
+
+!ENTRY org.eclipse.ui.navigator 2 0 2023-10-19 19:31:20.465
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2023-10-19 19:31:20.466
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering

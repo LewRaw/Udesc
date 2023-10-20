@@ -1,11 +1,9 @@
-package teste;
-
-
+package Lista_SubPrograma1;
 import java.util.Scanner;
 import java.math.*;
 import java.text.DecimalFormat;
 
-public class teste {
+public class Ex1 {
 	
 	public static double calculaVolume(double raio) { 
 		return 4/3 * Math.PI * Math.pow(raio, 3); 
